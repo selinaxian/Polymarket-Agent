@@ -1,0 +1,166 @@
+[
+  {
+    "timestamp": "2026-03-28 18:06:59",
+    "cycle": 1,
+    "contracts_count": 3,
+    "news_count": 21,
+    "news_titles": [
+      "USMCA Rapid Response Labor Mechanism Panel Finds “Severe” Denial of Rights at Orla Mining’s Minera Camino Rojo Facility",
+      "Ambassador Greer Participates in the WTO’s 14th Ministerial Meeting in Yaoundé, Cameroon",
+      "USTR Issues Report on WTO Reform on Eve of Ministerial Conference",
+      "Ambassador Jamieson Greer Announces U.S.-Japan Action Plan on Critical Minerals",
+      "The United States and Mexico Announce Next Steps in Bilateral Discussions in Advance of the USMCA Joint Review",
+      "American Workers, Farmers, and Manufacturers Applaud USTR-Launched Section 301 Investigations",
+      "Ambassador Greer Signs the United States-Ecuador Agreement on Reciprocal Trade",
+      "USTR Initiates 60 Section 301 Investigations Relating to Failures to Take Action on Forced Labor",
+      "Tariffs in 2025: Short-run impacts on the US economy - Brookings",
+      "What Is a Trade War? History, Tariffs, & Impact - Britannica"
+    ],
+    "analysis_summary": "美国正采取双轨制贸易政策，一方面通过Section 301调查（特别是针对强制劳动）积极进行贸易执法，另一方面通过战略性双边协议（如关键矿产、与厄瓜多尔的贸易协议）深化合作，整体态势偏向贸易保护和供应链重塑。",
+    "policy_signal": "escalation",
+    "signal_strength": 7,
+    "alerts": [],
+    "total_signals": 3
+  },
+  {
+    "timestamp": "2026-03-28 18:38:38",
+    "cycle": 0,
+    "contracts_count": 3,
+    "news_count": 21,
+    "news_titles": [
+      "USMCA Rapid Response Labor Mechanism Panel Finds “Severe” Denial of Rights at Orla Mining’s Minera Camino Rojo Facility",
+      "Ambassador Greer Participates in the WTO’s 14th Ministerial Meeting in Yaoundé, Cameroon",
+      "USTR Issues Report on WTO Reform on Eve of Ministerial Conference",
+      "Ambassador Jamieson Greer Announces U.S.-Japan Action Plan on Critical Minerals",
+      "The United States and Mexico Announce Next Steps in Bilateral Discussions in Advance of the USMCA Joint Review",
+      "American Workers, Farmers, and Manufacturers Applaud USTR-Launched Section 301 Investigations",
+      "Ambassador Greer Signs the United States-Ecuador Agreement on Reciprocal Trade",
+      "USTR Initiates 60 Section 301 Investigations Relating to Failures to Take Action on Forced Labor",
+      "Tariffs in 2025: Short-run impacts on the US economy - Brookings",
+      "What Is a Trade War? History, Tariffs, & Impact - Britannica"
+    ],
+    "analysis_summary": "美国正通过积极的Section 301调查和USMCA劳工机制加强贸易执法和保护主义措施，同时寻求关键矿产供应链的战略合作，尽管也签署了新的双边贸易协议并参与WTO改革讨论，整体态势偏向贸易保护和执法升级。",
+    "policy_signal": "escalation",
+    "signal_strength": 7,
+    "alerts": [],
+    "total_signals": 3
+  },
+  {
+    "timestamp": "2026-03-28 18:58:22",
+    "cycle": 1,
+    "contracts_count": 3,
+    "news_count": 21,
+    "news_titles": [
+      "USMCA Rapid Response Labor Mechanism Panel Finds “Severe” Denial of Rights at Orla Mining’s Minera Camino Rojo Facility",
+      "Ambassador Greer Participates in the WTO’s 14th Ministerial Meeting in Yaoundé, Cameroon",
+      "USTR Issues Report on WTO Reform on Eve of Ministerial Conference",
+      "Ambassador Jamieson Greer Announces U.S.-Japan Action Plan on Critical Minerals",
+      "The United States and Mexico Announce Next Steps in Bilateral Discussions in Advance of the USMCA Joint Review",
+      "American Workers, Farmers, and Manufacturers Applaud USTR-Launched Section 301 Investigations",
+      "Ambassador Greer Signs the United States-Ecuador Agreement on Reciprocal Trade",
+      "USTR Initiates 60 Section 301 Investigations Relating to Failures to Take Action on Forced Labor",
+      "Tariffs in 2025: Short-run impacts on the US economy - Brookings",
+      "What Is a Trade War? History, Tariffs, & Impact - Britannica"
+    ],
+    "analysis_summary": "USTR通过大规模启动301调查，特别是针对强迫劳动问题，发出了强烈的贸易威胁信号，预示着潜在的贸易保护主义升级，同时美国也在积极参与双边贸易自由化和多边贸易体系的改革与执法。",
+    "policy_signal": "threat",
+    "signal_strength": 7,
+    "alerts": [
+      {
+        "timestamp": "2026-03-28 18:58:22",
+        "question": "U.S. agrees to a new trade deal with \"India\" before 2027?",
+        "market_id": "666818",
+        "market_yes": 0.245,
+        "market_no": 0.755,
+        "estimated_prob": 35.0,
+        "edge": 10.5,
+        "policy_signal": "threat",
+        "signal_strength": 7,
+        "summary": "USTR通过大规模启动301调查，特别是针对强迫劳动问题，发出了强烈的贸易威胁信号，预示着潜在的贸易保护主义升级，同时美国也在积极参与双边贸易自由化和多边贸易体系的改革与执法。",
+        "action": "BUY_YES",
+        "alert": true
+      },
+      {
+        "timestamp": "2026-03-28 18:58:22",
+        "question": "U.S. agrees to a new trade deal with \"Pakistan\" before 2027?",
+        "market_id": "666829",
+        "market_yes": 0.2,
+        "market_no": 0.8,
+        "estimated_prob": 30.5,
+        "edge": 10.5,
+        "policy_signal": "threat",
+        "signal_strength": 7,
+        "summary": "USTR通过大规模启动301调查，特别是针对强迫劳动问题，发出了强烈的贸易威胁信号，预示着潜在的贸易保护主义升级，同时美国也在积极参与双边贸易自由化和多边贸易体系的改革与执法。",
+        "action": "BUY_YES",
+        "alert": true
+      }
+    ],
+    "total_signals": 3
+  },
+  {
+    "timestamp": "2026-03-28 19:17:51",
+    "cycle": 0,
+    "contracts_count": 3,
+    "news_count": 21,
+    "news_titles": [
+      "USMCA Rapid Response Labor Mechanism Panel Finds “Severe” Denial of Rights at Orla Mining’s Minera Camino Rojo Facility",
+      "Ambassador Greer Participates in the WTO’s 14th Ministerial Meeting in Yaoundé, Cameroon",
+      "USTR Issues Report on WTO Reform on Eve of Ministerial Conference",
+      "Ambassador Jamieson Greer Announces U.S.-Japan Action Plan on Critical Minerals",
+      "The United States and Mexico Announce Next Steps in Bilateral Discussions in Advance of the USMCA Joint Review",
+      "American Workers, Farmers, and Manufacturers Applaud USTR-Launched Section 301 Investigations",
+      "Ambassador Greer Signs the United States-Ecuador Agreement on Reciprocal Trade",
+      "USTR Initiates 60 Section 301 Investigations Relating to Failures to Take Action on Forced Labor",
+      "Tariffs in 2025: Short-run impacts on the US economy - Brookings",
+      "What Is a Trade War? History, Tariffs, & Impact - Britannica"
+    ],
+    "analysis_summary": "美国正通过大规模的301条款调查，特别是针对强迫劳动问题，积极推行贸易执法和保护主义议程，同时也在多边和战略双边层面进行贸易合作与谈判。",
+    "policy_signal": "escalation",
+    "signal_strength": 8,
+    "alerts": [
+      {
+        "timestamp": "2026-03-28 19:17:51",
+        "question": "U.S. agrees to a new trade deal with \"India\" before 2027?",
+        "market_id": "666818",
+        "market_yes": 0.245,
+        "market_no": 0.755,
+        "estimated_prob": 36.5,
+        "edge": 12.0,
+        "policy_signal": "escalation",
+        "signal_strength": 8,
+        "summary": "美国正通过大规模的301条款调查，特别是针对强迫劳动问题，积极推行贸易执法和保护主义议程，同时也在多边和战略双边层面进行贸易合作与谈判。",
+        "action": "BUY_YES",
+        "alert": true
+      },
+      {
+        "timestamp": "2026-03-28 19:17:51",
+        "question": "U.S. agrees to a new trade deal with \"Pakistan\" before 2027?",
+        "market_id": "666829",
+        "market_yes": 0.2,
+        "market_no": 0.8,
+        "estimated_prob": 32.0,
+        "edge": 12.0,
+        "policy_signal": "escalation",
+        "signal_strength": 8,
+        "summary": "美国正通过大规模的301条款调查，特别是针对强迫劳动问题，积极推行贸易执法和保护主义议程，同时也在多边和战略双边层面进行贸易合作与谈判。",
+        "action": "BUY_YES",
+        "alert": true
+      },
+      {
+        "timestamp": "2026-03-28 19:17:51",
+        "question": "Will Trump create a tariff dividend by March 31?",
+        "market_id": "676387",
+        "market_yes": 0.008,
+        "market_no": 0.992,
+        "estimated_prob": 16.8,
+        "edge": 16.0,
+        "policy_signal": "escalation",
+        "signal_strength": 8,
+        "summary": "美国正通过大规模的301条款调查，特别是针对强迫劳动问题，积极推行贸易执法和保护主义议程，同时也在多边和战略双边层面进行贸易合作与谈判。",
+        "action": "BUY_YES",
+        "alert": true
+      }
+    ],
+    "total_signals": 3
+  }
+]

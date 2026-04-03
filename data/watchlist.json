@@ -1,0 +1,47 @@
+[
+  {
+    "event_title": "Which countries will Trump make new trade deals with before 2027?",
+    "question": "U.S. agrees to a new trade deal with \"India\" before 2027?",
+    "market_id": "666818",
+    "condition_id": "0x533aab0d99851ea6dccf14861b8b7bb5026a40a15718769f8cc519d93380b391",
+    "yes_price": "[\"0.245\", \"0.755\"]",
+    "volume": "34401.568038000005",
+    "liquidity": "22182.8996",
+    "end_date": "2026-12-31T00:00:00Z",
+    "description": "This market will resolve to \"Yes\" if a free trade agreement with the specified country or entity becomes law in the United States by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve",
+    "token_ids": {
+      "yes": "[",
+      "no": "\""
+    }
+  },
+  {
+    "event_title": "Which countries will Trump make new trade deals with before 2027?",
+    "question": "U.S. agrees to a new trade deal with \"Pakistan\" before 2027?",
+    "market_id": "666829",
+    "condition_id": "0x85ad30282d095dd426c2b8c61a0f12c5fd1e751d1dd30830351001ced5fda42e",
+    "yes_price": "[\"0.205\", \"0.795\"]",
+    "volume": "67513.41065600002",
+    "liquidity": "7834.0493",
+    "end_date": "2026-12-31T00:00:00Z",
+    "description": "This market will resolve to \"Yes\" if a free trade agreement with the specified country or entity becomes law in the United States by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve",
+    "token_ids": {
+      "yes": "[",
+      "no": "\""
+    }
+  },
+  {
+    "event_title": "Will Trump create a tariff dividend by March 31?",
+    "question": "Will Trump create a tariff dividend by March 31?",
+    "market_id": "676387",
+    "condition_id": "0x80db1cb8b044feaa6d6cdd9110754dce3912af0ec0d845a3aeb5864a1ba7de67",
+    "yes_price": "[\"0.0085\", \"0.9915\"]",
+    "volume": "152909.38794400016",
+    "liquidity": "32363.10287",
+    "end_date": "2026-03-31T00:00:00Z",
+    "description": "This market will resolve to \"Yes\" if the Trump Administration formally creates (e.g., by signing federal legislation or performing executive action) a tariff dividend/rebate by March 31, 2026, 11:59 P",
+    "token_ids": {
+      "yes": "[",
+      "no": "\""
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2026-03-28 18:58:22",
+    "question": "U.S. agrees to a new trade deal with \"India\" before 2027?",
+    "market_id": "666818",
+    "market_yes": 0.245,
+    "market_no": 0.755,
+    "estimated_prob": 35.0,
+    "edge": 10.5,
+    "policy_signal": "threat",
+    "signal_strength": 7,
+    "summary": "USTR通过大规模启动301调查，特别是针对强迫劳动问题，发出了强烈的贸易威胁信号，预示着潜在的贸易保护主义升级，同时美国也在积极参与双边贸易自由化和多边贸易体系的改革与执法。",
+    "action": "BUY_YES",
+    "alert": true
+  },
+  {
+    "timestamp": "2026-03-28 18:58:22",
+    "question": "U.S. agrees to a new trade deal with \"Pakistan\" before 2027?",
+    "market_id": "666829",
+    "market_yes": 0.2,
+    "market_no": 0.8,
+    "estimated_prob": 30.5,
+    "edge": 10.5,
+    "policy_signal": "threat",
+    "signal_strength": 7,
+    "summary": "USTR通过大规模启动301调查，特别是针对强迫劳动问题，发出了强烈的贸易威胁信号，预示着潜在的贸易保护主义升级，同时美国也在积极参与双边贸易自由化和多边贸易体系的改革与执法。",
+    "action": "BUY_YES",
+    "alert": true
+  },
+  {
+    "timestamp": "2026-03-28 19:17:51",
+    "question": "U.S. agrees to a new trade deal with \"India\" before 2027?",
+    "market_id": "666818",
+    "market_yes": 0.245,
+    "market_no": 0.755,
+    "estimated_prob": 36.5,
+    "edge": 12.0,
+    "policy_signal": "escalation",
+    "signal_strength": 8,
+    "summary": "美国正通过大规模的301条款调查，特别是针对强迫劳动问题，积极推行贸易执法和保护主义议程，同时也在多边和战略双边层面进行贸易合作与谈判。",
+    "action": "BUY_YES",
+    "alert": true
+  },
+  {
+    "timestamp": "2026-03-28 19:17:51",
+    "question": "U.S. agrees to a new trade deal with \"Pakistan\" before 2027?",
+    "market_id": "666829",
+    "market_yes": 0.2,
+    "market_no": 0.8,
+    "estimated_prob": 32.0,
+    "edge": 12.0,
+    "policy_signal": "escalation",
+    "signal_strength": 8,
+    "summary": "美国正通过大规模的301条款调查，特别是针对强迫劳动问题，积极推行贸易执法和保护主义议程，同时也在多边和战略双边层面进行贸易合作与谈判。",
+    "action": "BUY_YES",
+    "alert": true
+  },
+  {
+    "timestamp": "2026-03-28 19:17:51",
+    "question": "Will Trump create a tariff dividend by March 31?",
+    "market_id": "676387",
+    "market_yes": 0.008,
+    "market_no": 0.992,
+    "estimated_prob": 16.8,
+    "edge": 16.0,
+    "policy_signal": "escalation",
+    "signal_strength": 8,
+    "summary": "美国正通过大规模的301条款调查，特别是针对强迫劳动问题，积极推行贸易执法和保护主义议程，同时也在多边和战略双边层面进行贸易合作与谈判。",
+    "action": "BUY_YES",
+    "alert": true
+  }
+]
