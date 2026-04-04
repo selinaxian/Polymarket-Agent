@@ -103,19 +103,27 @@ python -m backtest.run_live_simulation --limit 5          # Live simulation back
 Three-tab interactive dashboard for contract analysis and backtesting.
 
 ### Tab 1: Contract List
-Browse all active tariff/trade contracts with probability chart and price history.
+Browse all active tariff/trade contracts with Yes/No prices, volume, and historical price charts.
 
-![Contract List](images/tab_contracts.png)
+![Contract List](images/1_contracts.png)
 
 ### Tab 2: AI Analysis
-Select a contract → ReAct agent autonomously searches news → displays sentiment scores, policy signals, and trading recommendation.
+Select a contract → ReAct agent autonomously searches for relevant news → displays policy signal analysis, per-news sentiment scores, and trading recommendation with reasoning.
 
-![AI Analysis](images/tab_analysis.png)
+![Select Contract](images/2_select_contract.png)
+
+![Policy Analysis](images/3_policy_analysis.png)
+
+![Sentiment Scores](images/4_sentiment_scores.png)
+
+![Trade Recommendation](images/5_trade_recommendation.png)
 
 ### Tab 3: Backtest
-Run resolved contract backtests (configurable T-N) or live simulations (configurable time range and rebalancing frequency).
+Two modes: (1) resolved contract backtest with configurable T-N, and (2) live simulation with configurable time range and rebalancing frequency.
 
-![Backtest](images/tab_backtest.png)
+![Resolved Contract Backtest](images/6_resolved_backtest.png)
+
+![Live Simulation](images/7_live_simulation.png)
 
 ---
 
